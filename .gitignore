@@ -1,5 +1,12 @@
+# Cache
+
+# Ruby Files
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# VS Code
+.vscode
+.history
